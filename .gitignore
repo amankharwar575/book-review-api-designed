@@ -1,3 +1,9 @@
+node_modules/
+.env
+.env.local
+npm-debug.log
+coverage/
+dist/
 @"
 # Dependencies
 node_modules/
